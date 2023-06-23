@@ -1,0 +1,12 @@
+en el documento .htaccess se pone un codigo para configura lo de composer
+
+en la inicializacion de composer
+
+Package name (<vendor>/<name>) [andressan/compa]: 
+Description []:
+Minimum Stability []: 
+Package Type (e.g. library, project, metapackage, composer-plugin) []: 
+License []: //para licencia
+
+Would you like to define your dependencies (require) interactively [yes]? no
+Would you like to define your dev dependencies (require-dev) interactively [yes]?
